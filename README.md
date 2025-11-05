@@ -138,13 +138,8 @@ int main() {
 
 ## OUTPUT
 
-./shm.o
+<img width="1626" height="1027" alt="image" src="https://github.com/user-attachments/assets/e9a5c01d-054a-47ba-830e-18ad7b146809" />
 
-![Alt text](img/ex061.png)
-
-ipcs 
-
-![Alt text](img/ex062.png)
 
 
 # RESULT:
